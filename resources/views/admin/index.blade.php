@@ -1,4 +1,3 @@
-[Forwarded from Жавохир]
 @extends('layouts.admin')
 
 @section('content')
